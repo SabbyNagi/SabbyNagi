@@ -1,3 +1,5 @@
+<img src="portrait-animated.png" width="180" align="right" />
+
 # Hi, I'm Sabby.
 
 Product leader with 14 years of experience at **Amazon**, **Chewy**, and **Vistaprint**. I build products around delivery experience, transportation, and fulfillment at scale.
