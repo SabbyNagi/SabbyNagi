@@ -16,7 +16,7 @@ M.S. from **MIT** — studied platform thinking and marketplace strategies for l
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **RewardWise** | Travel rewards platform that automatically maximizes your wallet benefits across credit cards, airlines, and hotels. Built with Claude as the AI backbone. | [Live App](https://reward-wise.vercel.app/) · [Source](https://github.com/SabbyNagi/rewardwise-app) |
+| **RewardWise** | Travel rewards platform that automatically maximizes your wallet benefits across credit cards, airlines, and hotels. Built with Claude as the AI backbone. | [Live App](https://reward-wise.vercel.app/) · [Source](https://github.com/rewardwise/RewardWise) |
 | **Sabby's Product OS** | A Personal Operating System for Claude Code — skills, workflows, and automation for product management. | [Source](https://github.com/SabbyNagi/sabbys-product-os) |
 | **Personal Site** | Portfolio and writing, built with Next.js and deployed on Vercel. | [Visit](https://sabbynagi.vercel.app/) · [Source](https://github.com/SabbyNagi/SabbyNagi.github.io) |
 
