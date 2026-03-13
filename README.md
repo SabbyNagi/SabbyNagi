@@ -1,5 +1,3 @@
-<img src="github-profile-photo.png" width="180" align="right" />
-
 # Hi, I'm Sabby 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sarabjitnagi-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarabjitnagi/)
